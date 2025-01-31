@@ -4,6 +4,8 @@
 
   Redis Queue project is aimed at creating a queue based in redis and celery using redis data structures. We can control the task concurrency as per our need
 
+  You can find an in-depth article on this implementation [here](https://dev.to/idrisrampurawala/implementing-a-redis-based-task-queue-with-configurable-concurrency-38db).
+
   *Note*: This project is forked from one of my project [Flask Boilerplate](https://github.com/idris-rampurawala/flask-boilerplate) to quickly get started.
 
 
